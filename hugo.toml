@@ -1,0 +1,4 @@
+baseURL = 'https://ArmVV26.github.io'
+languageCode = 'en-us'
+title = 'Jardieria Hoy'
+theme = 'newsroom'
